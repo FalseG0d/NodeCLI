@@ -141,4 +141,3 @@ The project was my attempt to understand and recreate a similar project already 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/apoorv-garg-137137171/
 [product-screenshot]: images/pexels.jpg
-#Django Customer Management System
