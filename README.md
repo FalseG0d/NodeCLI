@@ -18,7 +18,7 @@
   <h3 align="center">Made By FalseG0d</h3>
 
   <p align="center">
-    Command-line interfaces (CLIs) built in Node.js allow you to automate repetitive tasks while leveraging the vast Node.js ecosystem. And thanks to package managers like npm and yarn, these can be easily distributed and consumed across multiple platforms.
+    Command-line interfaces (CLIs) built in Node.js allow you to automate repetitive tasks while leveraging the vast Node.js ecosystem. And thanks to package managers like npm and yarn, these can be easily distributed and consumed across multiple platforms. This project however is a simple template which only creates a node project and install dependencies automatically.
     <br />
     <a href="https://github.com/FalseG0d?tab=repositories"><strong>Explore Other Projects »</strong></a>
     <br />
@@ -57,10 +57,16 @@ git clone https://github.com/FalseG0d/NodeCLI.git
 
 2. Enable Remote Scripts on your OS.
 
-3. Run Commands
+3. Make and Navigate To Test Directory
+
+'''sh
+mkdir test-dir; cd test-dir;
+'''
+
+4. Run Commands
 
 ```sh
-NodeCLI
+nodecli javascript --git --install
 ```
 
 
@@ -68,7 +74,7 @@ NodeCLI
 
 1. NodeJS
 2. NPM
-
+3. Admin Privilege
 
 
 ## Features
